@@ -6,9 +6,11 @@ public class Branch {
 
     public Branch(String branch) {
         this.branch = branch;
+    }
 
-    public Branch(){
-        
+    public Branch() {
+
 
     }
 }
+
