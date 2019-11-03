@@ -1,0 +1,5 @@
+package com.example.gitpractise;
+
+public class Branch {
+    public String branch;
+}
